@@ -13,7 +13,7 @@
 
 - `gem install pry pry-doc` を実行
 
-# bey-bug
+# bye-bug
 
 - `gem install pry-byebug` を実行
 
